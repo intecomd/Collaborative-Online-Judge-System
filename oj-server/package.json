@@ -1,0 +1,19 @@
+{
+  "name": "oj-server",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongoose": "^4.8.6",
+    "node-rest-client": "^3.0.7",
+    "redis": "^2.7.1",
+    "socket.io": "^1.7.3"
+  }
+}
